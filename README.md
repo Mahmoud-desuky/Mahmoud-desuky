@@ -12,9 +12,8 @@
 
 - 📫 How to reach me **mahmouddesoukynmo@gmail.com**
 
-<!--- 📄 Know about from my [CV](https://bit.ly/3zsfKUO)
+ 📄 Know about from my [CV](https://drive.google.com/file/d/1YJg4rtag9COrDg9ALvx6IFI3_4FZ_Df1/view?usp=sharing)
 
--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-mohamed-desouky-2143461bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-mohamed-desouky-2143461bb/" height="30" width="40" /></a>
